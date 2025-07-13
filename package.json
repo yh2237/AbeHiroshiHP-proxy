@@ -1,0 +1,18 @@
+{
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "http": "^0.0.1-security",
+    "http-proxy": "^1.18.1",
+    "js-yaml": "^4.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "yh（yh2237）",
+  "license": "MIT",
+  "version": "1.0.0",
+  "main": "server.js"
+}
